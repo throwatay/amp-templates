@@ -32,3 +32,7 @@ Meta.DisplayName=Assetto Server Manager
 Meta.EndpointURIFormat=
 Meta.OS=3
 Meta.URL=
+Meta.AppConfigId=AssettoServerManagerCustom
+Meta.SyntaxVersion=1
+Meta.Description=Assetto Corsa Server Manager
+Meta.FeatureSet=0

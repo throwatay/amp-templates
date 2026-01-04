@@ -29,3 +29,5 @@ Meta.Description=Assetto Corsa Server Manager with Web UI
 Meta.Author=Boogs
 Meta.OS=3
 Meta.FeatureSet=0
+Meta.DisplayName=Assetto Server Manager
+Meta.DisplayImageSource=url:
